@@ -8,7 +8,7 @@ int main()
 	int rows = src.width();
 	int columns = src.height();
 	cout<< rows<<" "<<columns<<endl;
-	int R[columns][rows];
+	//int R[columns][rows];
 
 	for (int i=0; i<rows; i++)
 	for (int j=0; j< columns; j++)
